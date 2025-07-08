@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://mahati.micro.blog/2025/07/08/emacs-has-a-lot-of.html",
+				
+				"content_html": "<p>#eMacs has a lot of commands, I want to use #orgMode without having to memorise everything first, so this #plugin called <a href=\"https://github.com/kickingvegas/casual-suite\">casual-suite</a>, which is like a mashup of cheat sheets and Mac OS searchable menus might work nicely. Different but also a little like the VS Code style command bar feature.</p>\n",
+				"content_text": " #eMacs has a lot of commands, I want to use #orgMode without having to memorise everything first, so this #plugin called [casual-suite](https://github.com/kickingvegas/casual-suite), which is like a mashup of cheat sheets and Mac OS searchable menus might work nicely. Different but also a little like the VS Code style command bar feature.\n",
+				"date_published": "2025-07-08T18:23:24+02:00",
+				"url": "https://himaha.com/2025/07/08/emacs-has-a-lot-of.html"
+			},
+			{
+				"id": "http://mahati.micro.blog/2025/07/01/open-source-visual-novel-engine.html",
+				
+				"content_html": "<p>Open Source Visual novel engine that was used in the popular “Slay the princess” game. #gameDev <a href=\"https://www.renpy.org/\">www.renpy.org</a></p>\n",
+				"content_text": "Open Source Visual novel engine that was used in the popular “Slay the princess” game. #gameDev [www.renpy.org](https://www.renpy.org/)\n",
+				"date_published": "2025-07-01T19:21:11+02:00",
+				"url": "https://himaha.com/2025/07/01/open-source-visual-novel-engine.html"
+			},
+			{
 				"id": "http://mahati.micro.blog/2025/07/01/liquid-foods-for-sick-days.html",
 				"title": "Liquid foods for sick days",
 				"content_html": "<ul>\n<li>\n<p>Powerade Mountain Blast (always have one on hand)</p>\n</li>\n<li>\n<p>Vly Erbsen-Drink High Protein vegan</p>\n</li>\n<li>\n<p>Rewe frei von Weiße Schokolade mit Crispies laktosefrei glutenfrei</p>\n</li>\n<li>\n<p>Vitamin Well Antioxidant</p>\n</li>\n<li>\n<p>Vitamin Well Hydrate Erdbeer &amp; Rhabarber</p>\n</li>\n<li>\n<p>Innocent Direktsaft Blaubeere, Apfel, Johannisbeere &amp; Cranberry</p>\n</li>\n</ul>\n",
