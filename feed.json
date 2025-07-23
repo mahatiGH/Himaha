@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://mahati.micro.blog/2025/07/23/i-give-grace-to-my.html",
+				
+				"content_html": "<p>&ldquo;I give grace to my curiosity honey&rdquo; -Jujube</p>\n",
+				"content_text": "\"I give grace to my curiosity honey\" -Jujube\n",
+				"date_published": "2025-07-23T18:43:30+02:00",
+				"url": "https://himaha.com/2025/07/23/i-give-grace-to-my.html"
+			},
+			{
 				"id": "http://mahati.micro.blog/2025/07/08/emacs-has-a-lot-of.html",
 				
 				"content_html": "<p>#eMacs has a lot of commands, I want to use #orgMode without having to memorise everything first, so this #plugin called <a href=\"https://github.com/kickingvegas/casual-suite\">casual-suite</a>, which is like a mashup of cheat sheets and Mac OS searchable menus might work nicely. Different but also a little like the VS Code style command bar feature.</p>\n",
