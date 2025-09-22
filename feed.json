@@ -1,11 +1,27 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Mahati",
-	"icon": "https://micro.blog/Mahati/avatar.jpg",
+	"icon": "https://avatars.micro.blog/avatars/2025/27/1794208.jpg",
 	"home_page_url": "https://himaha.com/",
 	"feed_url": "https://himaha.com/feed.json",
 	"items": [
 		
+			{
+				"id": "http://mahati.micro.blog/2025/09/22/what-can-you-say-to.html",
+				
+				"content_html": "<blockquote>\n<p>What can you say to someone who always think you’re trying to trick them?</p>\n</blockquote>\n<p>#quotes #EXU #calamity</p>\n",
+				"content_text": "> What can you say to someone who always think you’re trying to trick them?\n\n#quotes #EXU #calamity\n",
+				"date_published": "2025-09-22T07:36:24+02:00",
+				"url": "https://himaha.com/2025/09/22/what-can-you-say-to.html"
+			},
+			{
+				"id": "http://mahati.micro.blog/2025/09/04/words-thaticonfuse-the-name-on.html",
+				
+				"content_html": "<p>Words #thatIConfuse - the name on this channel is <a href=\"https://youtu.be/9-imbpg6wk4\">youtu.be/9-imbpg6w&hellip;</a> “Calvin Walker” which I read as “Alvin Cakewalker”. Natch. (Maybe because Alan walker and Anakin Skywalker)</p>\n",
+				"content_text": "Words #thatIConfuse - the name on this channel is [youtu.be/9-imbpg6w...](https://youtu.be/9-imbpg6wk4) “Calvin Walker” which I read as “Alvin Cakewalker”. Natch. (Maybe because Alan walker and Anakin Skywalker)\n",
+				"date_published": "2025-09-04T10:43:15+02:00",
+				"url": "https://himaha.com/2025/09/04/words-thaticonfuse-the-name-on.html"
+			},
 			{
 				"id": "http://mahati.micro.blog/2025/08/30/placesthaticonfusewithanother-sicily-and-venice.html",
 				
@@ -17,7 +33,7 @@
 			{
 				"id": "http://mahati.micro.blog/2025/08/16/041946.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<div class=\"tumblr-post\" data-href=\"https://embed.tumblr.com/embed/post/t:s3ub2XS7f6dYsbXoOwXWeg/612355099893841920/v2\" data-did=\"9d630f6d9c49a8951e8d9ebe67b0c69ae39b5cec\"  ><a href=\"https://www.tumblr.com/rangedspellattack/612355099893841920/what-is-love-without-expectation-what-is-that\">https://www.tumblr.com/rangedspellattack/612355099893841920/what-is-love-without-expectation-what-is-that</a></div><script async src=\"https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51\"></script>\n",
 				"content_text": "<div class=\"tumblr-post\" data-href=\"https://embed.tumblr.com/embed/post/t:s3ub2XS7f6dYsbXoOwXWeg/612355099893841920/v2\" data-did=\"9d630f6d9c49a8951e8d9ebe67b0c69ae39b5cec\"  ><a href=\"https://www.tumblr.com/rangedspellattack/612355099893841920/what-is-love-without-expectation-what-is-that\">https://www.tumblr.com/rangedspellattack/612355099893841920/what-is-love-without-expectation-what-is-that</a></div><script async src=\"https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51\"></script>\n",
 				"date_published": "2025-08-16T04:19:46+02:00",
 				"url": "https://himaha.com/2025/08/16/041946.html"
