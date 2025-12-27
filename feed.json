@@ -1,17 +1,25 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Mahati",
-	"icon": "https://avatars.micro.blog/avatars/2025/27/1794208.jpg",
+	"icon": "https://micro.blog/Mahati/avatar.jpg",
 	"home_page_url": "https://himaha.com/",
 	"feed_url": "https://himaha.com/feed.json",
 	"items": [
 		
 			{
+				"id": "http://mahati.micro.blog/2025/12/27/home-isnt-a-historical-location.html",
+				
+				"content_html": "<p>Home isn’t a historical location, to help someone have a home we have to make them feel welcome where they are and where they want to continue living.</p>\n",
+				"content_text": "Home isn’t a historical location, to help someone have a home we have to make them feel welcome where they are and where they want to continue living.\n",
+				"date_published": "2025-12-27T17:13:32+01:00",
+				"url": "https://himaha.com/2025/12/27/home-isnt-a-historical-location.html"
+			},
+			{
 				"id": "http://mahati.micro.blog/2025/09/22/what-can-you-say-to.html",
 				
 				"content_html": "<blockquote>\n<p>What can you say to someone who always think you’re trying to trick them?</p>\n</blockquote>\n<p>#quotes #EXU #calamity</p>\n",
 				"content_text": "> What can you say to someone who always think you’re trying to trick them?\n\n#quotes #EXU #calamity\n",
-				"date_published": "2025-09-22T07:36:24+02:00",
+				"date_published": "2025-09-22T06:36:24+01:00",
 				"url": "https://himaha.com/2025/09/22/what-can-you-say-to.html"
 			},
 			{
@@ -19,7 +27,7 @@
 				
 				"content_html": "<p>Words #thatIConfuse - the name on this channel is <a href=\"https://youtu.be/9-imbpg6wk4\">youtu.be/9-imbpg6w&hellip;</a> “Calvin Walker” which I read as “Alvin Cakewalker”. Natch. (Maybe because Alan walker and Anakin Skywalker)</p>\n",
 				"content_text": "Words #thatIConfuse - the name on this channel is [youtu.be/9-imbpg6w...](https://youtu.be/9-imbpg6wk4) “Calvin Walker” which I read as “Alvin Cakewalker”. Natch. (Maybe because Alan walker and Anakin Skywalker)\n",
-				"date_published": "2025-09-04T10:43:15+02:00",
+				"date_published": "2025-09-04T09:43:15+01:00",
 				"url": "https://himaha.com/2025/09/04/words-thaticonfuse-the-name-on.html"
 			},
 			{
@@ -27,15 +35,15 @@
 				
 				"content_html": "<p>#PlacesThatIConfuseWithAnother: Sicily and Venice</p>\n",
 				"content_text": "#PlacesThatIConfuseWithAnother: Sicily and Venice \n",
-				"date_published": "2025-08-30T01:36:58+02:00",
+				"date_published": "2025-08-30T00:36:58+01:00",
 				"url": "https://himaha.com/2025/08/30/placesthaticonfusewithanother-sicily-and-venice.html"
 			},
 			{
 				"id": "http://mahati.micro.blog/2025/08/16/041946.html",
 				
-				"content_html": "<div class=\"tumblr-post\" data-href=\"https://embed.tumblr.com/embed/post/t:s3ub2XS7f6dYsbXoOwXWeg/612355099893841920/v2\" data-did=\"9d630f6d9c49a8951e8d9ebe67b0c69ae39b5cec\"  ><a href=\"https://www.tumblr.com/rangedspellattack/612355099893841920/what-is-love-without-expectation-what-is-that\">https://www.tumblr.com/rangedspellattack/612355099893841920/what-is-love-without-expectation-what-is-that</a></div><script async src=\"https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51\"></script>\n",
+				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<div class=\"tumblr-post\" data-href=\"https://embed.tumblr.com/embed/post/t:s3ub2XS7f6dYsbXoOwXWeg/612355099893841920/v2\" data-did=\"9d630f6d9c49a8951e8d9ebe67b0c69ae39b5cec\"  ><a href=\"https://www.tumblr.com/rangedspellattack/612355099893841920/what-is-love-without-expectation-what-is-that\">https://www.tumblr.com/rangedspellattack/612355099893841920/what-is-love-without-expectation-what-is-that</a></div><script async src=\"https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51\"></script>\n",
-				"date_published": "2025-08-16T04:19:46+02:00",
+				"date_published": "2025-08-16T03:19:46+01:00",
 				"url": "https://himaha.com/2025/08/16/041946.html"
 			},
 			{
@@ -43,7 +51,7 @@
 				
 				"content_html": "<p>Plans are scripts, reality’s improvisation. - the importance of setting constraints instead of goals.</p>\n",
 				"content_text": "Plans are scripts, reality’s improvisation. - the importance of setting constraints instead of goals.\n\n",
-				"date_published": "2025-08-07T18:59:03+02:00",
+				"date_published": "2025-08-07T17:59:03+01:00",
 				"url": "https://himaha.com/2025/08/07/plans-are-scripts-realitys-improvisation.html",
 				"tags": ["quotes"]
 			},
@@ -52,7 +60,7 @@
 				
 				"content_html": "<p>Worry not of the reality of destiny, look instead at the Marvels you hold in your hand right now.</p>\n",
 				"content_text": "Worry not of the reality of destiny, look instead at the Marvels you hold in your hand right now.\n",
-				"date_published": "2025-08-07T18:54:19+02:00",
+				"date_published": "2025-08-07T17:54:19+01:00",
 				"url": "https://himaha.com/2025/08/07/worry-not-of-the-reality.html"
 			},
 			{
@@ -60,7 +68,7 @@
 				"title": "On fermenting Idly batter  in colder weather",
 				"content_html": "<p>From a <a href=\"https://cookwithrenu.com/fermenting-idli-dosa-batter-in-cold-climate/\" title=\"The website “cook with Renu”\">blog</a> there were tips about fermentation in cooler environments.</p>\n<p>Check the blog for more tips, here’s an excerpt</p>\n<h2 id=\"to-create-a-warm-environment-one-can-do-the-following\">To create a warm environment one can do the following:</h2>\n<ul>\n<li>Wrap a blanket around the container and keep it in a place in your house where it is warm. Even if you get a tiny bit of sunlight it is fine. I do not like this only because if it overflows it spoils the blanket.</li>\n<li>Keep the container in the oven, with the oven light on for 2-3 hours. It is not needed for the oven light to be on for the whole time or for hours. It is simply a waste of resources according to me. Once it is on for 2-3 hours, it creates a warm environment sufficient enough to ferment the batter. The below batter is fermented with oven light on for just 2-3 hours.</li>\n<li>If you have done any baking at all in the oven, your oven would be hot on that day. So one of the best uses of the remaining energy. Let it cool down a bit, so that it does not scorch the batter. Once it is warm, keep the batter inside.</li>\n<li>Warm the oven slightly (you should just be able to feel it warm and not hot) switch off and keep the batter inside it. The warmth generated is sufficient to ferment the batter.</li>\n<li>For the last 1 month, I have been following another trick. I keep the batter near one of my heater radiators. In this way, I am not wasting any resources and I am happy with the fermentation.</li>\n<li>Mind you I have tiles in my kitchen and my kitchen is cold.</li>\n<li>I used to add salt earlier but now I just add ¼ of the required quantity before fermentation. Adding salt helps in the fermentation process, especially in cold countries. If you are in a hot environment skip adding salt earlier. Add it only after the batter ferments. This helps the batter stay good for long.</li>\n<li>Time required will be around 16-24 hours in colder countries. It will not ferment just overnight or 6-8 hours. So be patient.</li>\n<li>If you are keeping it in an Oven, do not open the oven door. All the heat generated will be escaped.</li>\n<li>Do not close the container tightly, just a loose lid on top.</li>\n<li>Try to use a steel or a glass container for the batter.</li>\n<li>Lastly do not forget to keep a plate or a tray at the bottom. If the batter overflows you would be in a mess.</li>\n<li>A few of my readers told me that they put a hot water-filled bottle in the batter and it helps in fermenting. I have not tried it yet</li>\n</ul>\n",
 				"content_text": "From a [blog](https://cookwithrenu.com/fermenting-idli-dosa-batter-in-cold-climate/ \"The website “cook with Renu”\") there were tips about fermentation in cooler environments.\n\nCheck the blog for more tips, here’s an excerpt \n\n## To create a warm environment one can do the following:\n- Wrap a blanket around the container and keep it in a place in your house where it is warm. Even if you get a tiny bit of sunlight it is fine. I do not like this only because if it overflows it spoils the blanket.\n- Keep the container in the oven, with the oven light on for 2-3 hours. It is not needed for the oven light to be on for the whole time or for hours. It is simply a waste of resources according to me. Once it is on for 2-3 hours, it creates a warm environment sufficient enough to ferment the batter. The below batter is fermented with oven light on for just 2-3 hours.\n- If you have done any baking at all in the oven, your oven would be hot on that day. So one of the best uses of the remaining energy. Let it cool down a bit, so that it does not scorch the batter. Once it is warm, keep the batter inside.\n- Warm the oven slightly (you should just be able to feel it warm and not hot) switch off and keep the batter inside it. The warmth generated is sufficient to ferment the batter.\n- For the last 1 month, I have been following another trick. I keep the batter near one of my heater radiators. In this way, I am not wasting any resources and I am happy with the fermentation.\n- Mind you I have tiles in my kitchen and my kitchen is cold.\n- I used to add salt earlier but now I just add ¼ of the required quantity before fermentation. Adding salt helps in the fermentation process, especially in cold countries. If you are in a hot environment skip adding salt earlier. Add it only after the batter ferments. This helps the batter stay good for long.\n- Time required will be around 16-24 hours in colder countries. It will not ferment just overnight or 6-8 hours. So be patient.\n- If you are keeping it in an Oven, do not open the oven door. All the heat generated will be escaped.\n- Do not close the container tightly, just a loose lid on top.\n- Try to use a steel or a glass container for the batter.\n- Lastly do not forget to keep a plate or a tray at the bottom. If the batter overflows you would be in a mess.\n- A few of my readers told me that they put a hot water-filled bottle in the batter and it helps in fermenting. I have not tried it yet\n\n",
-				"date_published": "2025-08-05T13:36:21+02:00",
+				"date_published": "2025-08-05T12:36:21+01:00",
 				"url": "https://himaha.com/2025/08/05/on-fermenting-idly-batter-in.html",
 				"tags": ["cooking","tips","public bookmark"]
 			},
@@ -69,7 +77,7 @@
 				
 				"content_html": "<p>&ldquo;I give grace to my curiosity honey&rdquo; -Jujube</p>\n",
 				"content_text": "\"I give grace to my curiosity honey\" -Jujube\n",
-				"date_published": "2025-07-23T18:43:30+02:00",
+				"date_published": "2025-07-23T17:43:30+01:00",
 				"url": "https://himaha.com/2025/07/23/i-give-grace-to-my.html"
 			},
 			{
@@ -77,7 +85,7 @@
 				
 				"content_html": "<p>#eMacs has a lot of commands, I want to use #orgMode without having to memorise everything first, so this #plugin called <a href=\"https://github.com/kickingvegas/casual-suite\">casual-suite</a>, which is like a mashup of cheat sheets and Mac OS searchable menus might work nicely. Different but also a little like the VS Code style command bar feature.</p>\n",
 				"content_text": " #eMacs has a lot of commands, I want to use #orgMode without having to memorise everything first, so this #plugin called [casual-suite](https://github.com/kickingvegas/casual-suite), which is like a mashup of cheat sheets and Mac OS searchable menus might work nicely. Different but also a little like the VS Code style command bar feature.\n",
-				"date_published": "2025-07-08T18:23:24+02:00",
+				"date_published": "2025-07-08T17:23:24+01:00",
 				"url": "https://himaha.com/2025/07/08/emacs-has-a-lot-of.html"
 			},
 			{
@@ -85,7 +93,7 @@
 				
 				"content_html": "<p>Open Source Visual novel engine that was used in the popular “Slay the princess” game. #gameDev <a href=\"https://www.renpy.org/\">www.renpy.org</a></p>\n",
 				"content_text": "Open Source Visual novel engine that was used in the popular “Slay the princess” game. #gameDev [www.renpy.org](https://www.renpy.org/)\n",
-				"date_published": "2025-07-01T19:21:11+02:00",
+				"date_published": "2025-07-01T18:21:11+01:00",
 				"url": "https://himaha.com/2025/07/01/open-source-visual-novel-engine.html"
 			},
 			{
@@ -93,7 +101,7 @@
 				"title": "Liquid foods for sick days",
 				"content_html": "<ul>\n<li>\n<p>Powerade Mountain Blast (always have one on hand)</p>\n</li>\n<li>\n<p>Vly Erbsen-Drink High Protein vegan</p>\n</li>\n<li>\n<p>Rewe frei von Weiße Schokolade mit Crispies laktosefrei glutenfrei</p>\n</li>\n<li>\n<p>Vitamin Well Antioxidant</p>\n</li>\n<li>\n<p>Vitamin Well Hydrate Erdbeer &amp; Rhabarber</p>\n</li>\n<li>\n<p>Innocent Direktsaft Blaubeere, Apfel, Johannisbeere &amp; Cranberry</p>\n</li>\n</ul>\n",
 				"content_text": "\n- Powerade Mountain Blast (always have one on hand)\n\n- Vly Erbsen-Drink High Protein vegan\n\n- Rewe frei von Weiße Schokolade mit Crispies laktosefrei glutenfrei\n\n- Vitamin Well Antioxidant\n\n- Vitamin Well Hydrate Erdbeer & Rhabarber\n\n- Innocent Direktsaft Blaubeere, Apfel, Johannisbeere & Cranberry\n",
-				"date_published": "2025-07-01T17:05:21+02:00",
+				"date_published": "2025-07-01T16:05:21+01:00",
 				"url": "https://himaha.com/2025/07/01/liquid-foods-for-sick-days.html"
 			},
 			{
@@ -101,7 +109,7 @@
 				
 				"content_html": "<p>The only way to learn is by playing. The only way to win is by learning. And the only way to begin is by beginning.</p>\n",
 				"content_text": "The only way to learn is by playing. The only way to win is by learning. And the only way to begin is by beginning.\n",
-				"date_published": "2025-06-23T21:31:46+02:00",
+				"date_published": "2025-06-23T20:31:46+01:00",
 				"url": "https://himaha.com/2025/06/23/the-only-way-to-learn.html"
 			}
 	]
